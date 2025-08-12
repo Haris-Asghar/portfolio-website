@@ -4,7 +4,7 @@
 
 📧 **Contact**: md.haris.asghar@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/haris-asghar](https://linkedin.com/in/haris-asghar)  
-🌐 **Portfolio**: [View Live Portfolio](https://your-portfolio-url.com)  
+🌐 **Portfolio**: [View Live Portfolio](https://haris-asghar.github.io/portfolio-website/)  
 📍 **Location**: [Lahore, PK]
 
 ---
@@ -131,7 +131,7 @@ Passionate Software Engineer and AI Researcher with expertise in full-stack deve
 
 - 📧 **Email**: md.haris.asghar@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/haris-asghar](https://linkedin.com/in/haris-asghar)
-- 🌐 **Portfolio**: [View Live Website](https://your-portfolio-url.com)
+- 🌐 **Portfolio**: [View Live Website](https://haris-asghar.github.io/portfolio-website/)
 
 ---
 

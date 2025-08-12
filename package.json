@@ -1,0 +1,36 @@
+{
+  "name": "haris-asghar-portfolio",
+  "version": "1.0.0",
+  "description": "A modern, responsive portfolio website showcasing skills, projects, and experience as a Software Engineer and AI Researcher.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harisasghar/portfolio-website.git"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "html",
+    "css",
+    "javascript",
+    "responsive",
+    "developer",
+    "software-engineer",
+    "ai-researcher"
+  ],
+  "author": "Haris Asghar <md.haris.asghar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/yourusername/portfolio-website#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "http-server": "^14.1.1"
+  }
+}

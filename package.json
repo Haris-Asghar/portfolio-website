@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harisasghar/portfolio-website.git"
+    "url": "git+https://github.com/Haris-Asghar/portfolio-website.git"
   },
   "keywords": [
     "portfolio",
@@ -26,9 +26,9 @@
   "author": "Haris Asghar <md.haris.asghar@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/portfolio-website/issues"
+    "url": "https://github.com/Haris-Asghar/portfolio-website/issues"
   },
-  "homepage": "https://github.com/yourusername/portfolio-website#readme",
+  "homepage": "https://github.com/Haris-Asghar/portfolio-website#readme",
   "devDependencies": {
     "gh-pages": "^4.0.0",
     "http-server": "^14.1.1"

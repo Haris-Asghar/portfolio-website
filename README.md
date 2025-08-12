@@ -5,7 +5,7 @@
 📧 **Contact**: md.haris.asghar@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/haris-asghar](https://linkedin.com/in/haris-asghar)  
 🌐 **Portfolio**: [View Live Portfolio](https://your-portfolio-url.com)  
-📍 **Location**: [Your Location]
+📍 **Location**: [Lahore, PK]
 
 ---
 
@@ -124,46 +124,6 @@ Passionate Software Engineer and AI Researcher with expertise in full-stack deve
 
 ---
 
-## 🚀 Portfolio Setup & Development
-
-### **Quick Start**
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd CV
-   ```
-
-2. Open `index.html` in your browser or run a local server:
-   ```bash
-   python -m http.server 8000
-   # or
-   npx http-server
-   ```
-
-### **Project Structure**
-```
-CV/
-├── index.html              # Main HTML file
-├── styles.css              # Main stylesheet  
-├── script.js               # JavaScript functionality
-├── README.md               # This CV/Portfolio document
-└── assets/
-    └── images/
-        └── profile.jpg     # Profile image
-```
-
-### **Customization**
-- Update personal information in `index.html`
-- Modify colors in CSS custom properties
-- Replace profile image with your own (400x400px recommended)
-- Add your actual project links and details
-
-### **Deployment**
-- **GitHub Pages**: Push to GitHub and enable Pages in repository settings
-- **Vercel**: Connect GitHub repository for automatic deployments
-- **Netlify**: Drag and drop folder or connect to Git
-
----
 
 ## 📞 Contact & Collaboration
 
